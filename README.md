@@ -19,8 +19,7 @@ A menu-driven calculator developed in C that performs basic arithmetic operation
 ### Technologies Used
 - C Programming
 
-### Author
-Manya Sinha
+---------------------------------
 
 
 ## Task 2: Matrix Operations
@@ -44,3 +43,6 @@ This project is developed in C programming to perform basic matrix operations us
 - Using Functions in C
 - Matrix Manipulation
 - Modular Programming Concepts
+
+###Author
+Manya Sinha
